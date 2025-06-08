@@ -33,8 +33,8 @@ A modern, interactive calendar application built with Flutter and Firebase, desi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/calendar_app.git
-   cd calendar_app
+   git clone https://github.com/KirilBK/Calendatora
+   cd Calendatora
    ```
 
 2. **Install dependencies**
@@ -52,9 +52,7 @@ A modern, interactive calendar application built with Flutter and Firebase, desi
      # For Android
      Place google-services.json in android/app/
      
-     # For iOS
-     Place GoogleService-Info.plist in ios/Runner/
-     ```
+    
 
 4. **Run the application**
    ```bash
@@ -122,7 +120,6 @@ service cloud.firestore {
 ## 📱 Supported Platforms
 
 - ✅ Android
-- ✅ iOS
 - ✅ Web
 
 ## 📚 Resources
@@ -134,7 +131,7 @@ service cloud.firestore {
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 🐛 Known Issues
 
